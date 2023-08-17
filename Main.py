@@ -2,4 +2,4 @@ print("Welcome to this KT!!")
 
 
 def execute():
-    print("Executing the main function")
+    print("Not executing the main function")
